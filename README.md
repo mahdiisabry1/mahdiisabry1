@@ -7,6 +7,7 @@
 - 💞️ I’m looking to collaborate on projects related to these areas or exchanging ideas with fellow enthusiasts.
 - 
 - 📫 How to reach me :  mahdiisabry@gmail.com
+- linkedin: https://www.linkedin.com/in/mahdi-919546286/
 - 
 - 😄 Pronouns: A Male (What The FUCK are Pronouns "There are only two genders")
 - 
