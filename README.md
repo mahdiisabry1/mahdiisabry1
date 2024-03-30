@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahdiisabry1
+- 👋 Hi, I’m MAHDI
 - 
 - 👀 I’m interested in self-learning about various subjects, including programming, history, and politics.
 -  
