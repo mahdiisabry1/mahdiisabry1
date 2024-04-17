@@ -2,14 +2,12 @@
 - 
 - 👀 I’m interested in self-learning about various subjects, including programming, history, and politics.
 -  
-- 🌱 I’m currently learning Java, Python, Cybersecurity, EthicalHacking, and Web development
+- 🌱 I'm currently learning whatever I feel like learning.()
 - 
-- 💞️ I’m looking to collaborate on projects related to these areas or exchanging ideas with fellow enthusiasts.
+- 💞️ I’m looking to collaborate on projects related to web development, AI and machine learning, exchanging ideas with fellow enthusiasts.
 - 
 - 📫 How to reach me :  mahdiisabry@gmail.com
 - linkedin: https://www.linkedin.com/in/mahdi-919546286/
-- 
-- 😄 Pronouns: A Male (What The FUCK are Pronouns "There are only two genders")
 - 
 - ⚡ Fun fact:  I love being a leader so much that my GPS often gets confused and asks me for directions instead! 🗺️👑
 <!---
