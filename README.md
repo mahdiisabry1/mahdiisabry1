@@ -1,6 +1,6 @@
 <!-- Profile Header with Background -->
 <div align="center">
-  <img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/2a3c304b-631b-4a38-8f9b-ace66abded30/DALL_E_2024-01-15_11.22.37_-_A_landscape_scene_representing_a_job_in_the_geopolitics_industry._The_image_features_a_global_map_in_the_background_with_various_countries_highlighted.png?t=1705317799" alt="geopolitics background" width="100%">
+  <img src="https://nordicdefencereview.com/wp-content/uploads/2024/06/NDR-AI4-1536x878.jpeg" alt="geopolitics background" width="100%">
   
   <!-- Profile Content -->
   <br>
@@ -43,6 +43,10 @@
         <img alt="Robotics" src="https://img.shields.io/badge/-Robotics-FF6F00?style=flat-square&logo=ros&logoColor=white" /> 
   <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=MathWorks&logoColor=white" /> 
   <img alt="Simulink" src="https://img.shields.io/badge/-Simulink-EE4C2C?style=flat-square&logo=MathWorks&logoColor=white" /> 
+        <img alt="Tor" src="https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white" /> 
+        <img alt="Tor" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" /> 
+        <img alt="Tor" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" /> 
+        <img alt="Tor" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" /> 
 </p>  
   </p>
   
@@ -93,8 +97,13 @@
 <div align="center">
   <h2>🕊️ Diplomatic Channels</h2>
   
-  [![Twitter](https://img.shields.io/badge/Twitter-Strategic_Takes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahdiisabry)
-  [![Email](https://img.shields.io/badge/Email-Geopolitics_Briefing-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdiisabry1@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mahdiisabry)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdiisabry1@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
+  [![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff)](#)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
 </div>
 
 <!-- Geopolitics Quote -->
