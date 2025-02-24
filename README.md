@@ -6,13 +6,12 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=mahdiisabry1&color=red" alt="Profile Views">
   
-  <h1 align="center">⚔️ Geopolitics Code Samurai ⚔️</h1>
+  <h1 align="center">⚔️ 🌐 Gangster of the Digital World Order 💻 ⚔️</h1>
   
   <p align="center">
     <em>
       "The currency of global influence is neither gold nor oil - 
       <br>it's lines of code and strategic alliances."<br>
-      - Digital Sun Tzu (probably)
     </em>
   </p>
 </div>
@@ -31,6 +30,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> 
         <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?style=flat-square&logo=.net&logoColor=white" /> 
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> 
+        <img alt="Spring Boot" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" /> 
   <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
   <img alt="NextJS" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> 
         <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
@@ -96,9 +96,13 @@
 <!-- Contact Section -->
 <div align="center">
   <h2>🕊️ Diplomatic Channels</h2>
-  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mahdiisabry)
+  <div align="center">
+
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdiisabry1@gmail.com)
+  </div>
+  
+  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/mahdiisabry)
+  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
@@ -111,6 +115,6 @@
   <br>
   <img src="https://i.imgur.com/MZwK6Rx.png" width="300">
   <p>
-    <em>"Coding is modern statecraft - both require understanding complex systems and anticipating moves three steps ahead."</em>
+    <em>"Where lines of code shape the borders of tomorrow."</em>
   </p>
 </div>
