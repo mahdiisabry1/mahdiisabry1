@@ -90,8 +90,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mahdiisabry1&show_icons=true" />
   </picture>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiisabry1&theme=midnight-purple" alt="War Streak">
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahdiisabry1&theme=dark)</div>
 
 <!-- Contact Section -->
 <div align="center">
