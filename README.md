@@ -114,7 +114,7 @@
 <!-- Geopolitics Quote -->
 <div align="center">
   <br>
-  <img src="https://i.imgur.com/MZwK6Rx.png" width="300">
+  <img src="https://media.istockphoto.com/id/1405609553/vector/double-headed-imperial-eagle-with-two-heads.jpg?s=1024x1024&w=is&k=20&c=SQ_rHQv2F8p4dVR44ecMljQE8wVbjwlX-seBZZr1dvQ=" width="300">
   <p>
     <em>"Where lines of code shape the borders of tomorrow."</em>
   </p>
