@@ -60,7 +60,7 @@
   
   <div align="center">
     <a href="https://en.wikipedia.org/wiki/Geopolitics">
-      <img src="https://wallpapercave.com/wp/wp2713606.jpg" width="200" style="border-radius:10px">
+      <img src="https://disruptionhub.com/wp-content/uploads/2024/01/How-is-AI-used-in-military-logistics-1536x1024.jpg" width="200" style="border-radius:10px">
     </a>
     <br>
     <img src="https://img.shields.io/badge/Geopolitics_Analyst-LEVEL_99-8A2BE2?style=for-the-badge&logo=chess-queen">
