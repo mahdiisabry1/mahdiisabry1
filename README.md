@@ -1,6 +1,6 @@
 <!-- Profile Header with Background -->
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FThe-Military-Tech-Show%2Fdp%2FB08TPKYQ91&psig=AOvVaw3-ACc8SEPe0XDBGkZQRgwk&ust=1745160713719000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj81NSs5IwDFQAAAAAdAAAAABAZ" alt="geopolitics background" width="100%">
+  <img src="https://electronic1.com/images/93e0222f1dd573825b4ffc013b2e3329.jpg" alt="geopolitics background" width="100%">
   
   <!-- Profile Content -->
   <br>
