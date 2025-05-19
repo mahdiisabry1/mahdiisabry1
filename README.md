@@ -114,7 +114,7 @@
 <!-- Geopolitics Quote -->
 <div align="center">
   <br>
-  <img src="https://p7.hiclipart.com/preview/359/837/161/coat-of-arms-of-russia-russian-soviet-federative-socialist-republic-double-headed-eagle-russia.jpg" width="300">
+  <img src="https://img.goodfon.com/wallpaper/nbig/f/3a/flag-rossiya-gerb-dvuhglavyy.webp" width="300">
   <p>
     <em>"Where lines of code shape the borders of tomorrow."</em>
   </p>
