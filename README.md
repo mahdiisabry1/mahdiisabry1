@@ -6,7 +6,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=mahdiisabry1&color=red" alt="Profile Views">
   
-  <h1 align="center">⚔️ 🌐 Gangster of the Digital World Order 💻 ⚔️</h1>
+  <h1 align="center">⚔️ 🌐 Gangster💻 ⚔️</h1>
   
   <p align="center">
     <em>
@@ -56,7 +56,7 @@
 
 <!-- Geopolitics Column -->
 <td width="40%" valign="top">
-  <h2>🌍 Geopolitics War Room</h2>
+  <h2>🌍 Room</h2>
   
   <div align="center">
     <a href="https://en.wikipedia.org/wiki/Geopolitics">
@@ -80,7 +80,7 @@
 
 <!-- Stats Section -->
 <div align="center">
-  <h2>📊 Battlefield Statistics</h2>
+  <h2>📊 Statistics</h2>
   
   <picture>
     <source
