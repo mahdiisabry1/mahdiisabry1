@@ -6,14 +6,9 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=mahdiisabry1&color=red" alt="Profile Views">
   
-  <h1 align="center">⚔️ 🌐 Gangster💻 ⚔️</h1>
+  <h1 align="center">⚔️ 🌐 💻 ⚔️</h1>
   
-  <p align="center">
-    <em>
-      "The currency of global influence is neither gold nor oil - 
-      <br>it's lines of code and strategic alliances."<br>
-    </em>
-  </p>
+  
 </div>
 
 <!-- Two Column Layout -->
