@@ -6,7 +6,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=mahdiisabry1&color=red" alt="Profile Views">
   
-  <h1 align="center">⚔️ 🌐 💻 ⚔️</h1>
+  <h1 align="center">⚔️ 🌐 💻 ☫ ⚔️</h1>
   
   
 </div>
